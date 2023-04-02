@@ -14,7 +14,7 @@
   - ... and more! 🌟
 
 
-# 💻 | Programming Languages I have learned / Programming Languages I coded in: 
+# 💻 | Programming Languages I have learned / Programming Languages I coded in: <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/Snuwy/snuwy/main/cat1.jpg">
    - Java ☕ (2020-2023)
    - Javascript & Typescript 🌹 (2014-2021)
    - Python 🐍 (2017-2023)
