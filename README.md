@@ -13,11 +13,11 @@
   - Psychology & Sociology
   - ... and more! 🌟
 
-<img align="left" width="640" height="640" src="https://raw.githubusercontent.com/Snuwy/snuwy/main/cat1.jpg">
-
 # 💻 | Programming Languages I have learned / Programming Languages I coded in: 
    - Java ☕ (2020-2023)
    - Javascript & Typescript 🌹 (2014-2021)
    - Python 🐍 (2017-2023)
    - Haskell 💝 (lesser than 3 months)
    - C++ 💨 (currently learning since 2021-2023)
+
+<img width="1024" height="1024" src="https://raw.githubusercontent.com/Snuwy/snuwy/main/cat1.jpg">
