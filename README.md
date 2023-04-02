@@ -20,4 +20,5 @@
    - Haskell 💝 (lesser than 3 months)
    - C++ 💨 (currently learning since 2021-2023)
 
-<img width="1024" height="1024" src="https://raw.githubusercontent.com/Snuwy/snuwy/main/cat1.jpg">
+<img width="1024" height="1024" alt="Cat programming while it's tongue is sticking out!" src="https://raw.githubusercontent.com/Snuwy/snuwy/main/cat1.jpg">
+(not my cat btw)
