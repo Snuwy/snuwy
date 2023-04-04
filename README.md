@@ -9,7 +9,7 @@
   - Science
   - Computer Science
   - Philosophy
-  - Math (especially Calculus)
+  - Math (all of it)
   - Psychology & Sociology
   - ... and more! 🌟
 
